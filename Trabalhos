@@ -1,6 +1,7 @@
+Exercício 1 :
+
 Algoritmo
 Na programação, algoritmo é um conjunto de instruções constituído de um número finito de passos para atingir um certo objetivo, como executar uma tarefa ou resolver um problema. 
-
 
 Jurimetria
 A Jurimetria é a estatística aplicada ao direito, em uma análise simples e direta, utilizando métodos quantitativos para fundamentar as decisões e fazer previsões certeiras.
@@ -13,3 +14,23 @@ Está relacionado ao fornecimento do acesso á internet sem custos financeiros s
 
 Inteligência Artificial
 A Inteligência Artificial (IA) é um campo da ciência cujo propósito é estudar, desenvolver e empregar máquinas para realizarem atividades humanas de maneira autônoma.
+
+Exercício 2 : 
+
+LGPD e Data Centers
+
+Letra A)  Um datacenter corresponde a um local físico que armazena máquinas de computação e seus equipamentos de hardware relacionados. Ele contém a infraestrutura de computação que os sistemas de TI exigem, como servidores, unidades de armazenamento de dados e equipamentos de rede. Sua relação com a LGPD no Brasil ( Lei Geral de Proteção de Dados) é que a LGPD tem responsabilidades sobre a proteção dos dados, tanto de quem está no Brasil tanto de quem não está no Brasil, desde que o dados sejam brasileiros. Nesse sentido, a LGPD estabelece, ainda, que não importa se a sede de uma organização ou o seu Data Center estão localizados no Brasil ou no exterior, ou ainda se os dados são tratados no meio físico ou nos digitais: todos estão sujeitos à regulação. Referências utilizadas : LGPD para Data Centers: impactos e sanções sobre o tráfego de dados (odatacolocation.com) // O que é um datacenter? – Explicação sobre datacenter na nuvem – AWS (amazon.com) 
+
+Letra B) Formato de arquivo especifica como os dados são armazenados para um aplicativo específicos. Os formatos de arquivo proprietários representam a privatização de memória digital, já os arquivos salvos em formatos abertos são arquivos que seguem um padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+•	Exemplos de formatos proprietários :
+•	 DOC - Microsoft Word Document.
+•	DWG - AutoCad Drawing.
+•	MP3 - MPEG Audio Layer 3.
+
+Exemplos de formatos abertos :
+•	CSV (Comma-Separated Values0. ...
+•	SVG (Scalable Vector Graphics) ...
+•	PDF (Portable Document Format)
+
+Referências utilizadas : Mais informações sobre formatos de arquivo - Suporte da Microsoft // Formatos abertos e formatos proprietários: como funciona e como é constituído o arquivo IFC - BibLus (accasoftware.com)
+
